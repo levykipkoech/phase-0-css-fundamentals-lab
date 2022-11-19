@@ -1,5 +1,51 @@
-body {
+ body {
   width: 100%;
   height: 100%;
-  margin: 0;
-}
+  margin: auto;
+ }
+ .container{
+  margin: auto;
+  font-size: small;
+  
+ }
+ h1 {
+  text-align: center;
+ }
+ .link{
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: rgb(58, 55, 55);
+  margin: auto;
+ }
+ .image{
+ 
+ margin: auto;
+
+ }
+ figcaption {
+  font-size: small;
+  text-align: center;
+ }
+ .box-1{
+  width: 80%;
+  text-align: center;
+  margin: auto;
+   
+
+ }
+ .block{
+   text-align: center;
+   padding: 5px;
+   float: left;
+   width: 22%; 
+   background-color: red;
+ }
+  
+  
+ 
+  
+ 
+ 
+
+  
